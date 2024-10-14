@@ -12,12 +12,7 @@ Machine learning (ML) offers powerful solutions, improving fraud detection by an
 
 ---
 
-### 🎯 **Business Goal**  
-The primary goal of this project is to develop a fraud detection system that can:  
-- Accurately detect fraudulent activities in financial transactions in real-time.  
-- Prevent financial losses and safeguard customer trust in financial institutions.  
-- Reduce false positives to improve the efficiency of fraud detection systems.
-
+![Fraud Detection Image](https://github.com/MAIKAMEL/images/blob/main/home%20page.png)
 ---
 
 ### 🚀 **Project Workflow**
@@ -120,7 +115,7 @@ We use **MLFlow** to keep track of different model versions, logging the paramet
 
 ### 🔗 **Project Links**  
 - [Project Repository](https://github.com/MAIKAMEL/Fraud-Detection)
-- [Demo (if applicable)](link_to_demo)
+- [Demo]([link_to_demo](https://github.com/MAIKAMEL/Fraud-Detection/blob/main/Demo%20video.webm))
 
 ---
 
