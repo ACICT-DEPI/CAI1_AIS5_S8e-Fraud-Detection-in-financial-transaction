@@ -19,7 +19,7 @@ Machine learning (ML) offers powerful solutions, improving fraud detection by an
 
 1. **Data Searching and Collection**  
    Gathering financial transaction data from various sources (e.g., Kaggle, other financial datasets) to form a solid foundation for model training.
-   [Credit Card Dataset](https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions) , [Phiuhing Email Dataset](https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset/data)
+   [Credit Card Dataset](https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions) , [Phishing Email Dataset](https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset/data)
 2. **Data Preparation, Cleaning, and Preprocessing**  
    - Handling missing or corrupted data.
    - Transforming categorical data into numerical representations.
