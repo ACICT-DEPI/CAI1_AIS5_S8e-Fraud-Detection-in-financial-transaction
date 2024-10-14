@@ -108,7 +108,7 @@ We use **MLFlow** to keep track of different model versions, logging the paramet
 
 ---
 
-###📈 Application Outputs
+### 📈 Application Outputs
 ![home page](https://github.com/MAIKAMEL/Fraud-Detection/blob/main/output%20screen/home%20page.png)
 
 ---
