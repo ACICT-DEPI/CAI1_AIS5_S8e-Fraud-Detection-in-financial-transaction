@@ -1,8 +1,3 @@
-# Fraud-Detection
-Here’s a professional and well-organized README for your GitHub project. It is tailored to your description and follows standard formatting practices for clarity and presentation.
-
----
-
 # 🔍💲 Fraud Detection in Financial Transactions
 
 ### 📜 **Overview**  
