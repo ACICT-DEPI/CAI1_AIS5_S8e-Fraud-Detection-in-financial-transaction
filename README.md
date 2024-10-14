@@ -115,7 +115,7 @@ We use **MLFlow** to keep track of different model versions, logging the paramet
 
 ### 🔗 **Project Links**  
 - [Project Repository](https://github.com/MAIKAMEL/Fraud-Detection)
-- [Demo]([link_to_demo](https://github.com/MAIKAMEL/Fraud-Detection/blob/main/Demo%20video.webm))
+- [Demo](https://github.com/MAIKAMEL/Fraud-Detection/blob/main/Demo%20video.webm)
 
 ---
 
