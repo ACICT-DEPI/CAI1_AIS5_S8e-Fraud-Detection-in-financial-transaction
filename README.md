@@ -57,12 +57,10 @@ Machine learning (ML) offers powerful solutions, improving fraud detection by an
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white)  
 
 - **NLP Tools**:  
-  ![SpaCy](https://img.shields.io/badge/SpaCy-000000?style=flat&logo=spacy&logoColor=white)  
-  ![NLTK](https://img.shields.io/badge/NLTK-339933?style=flat&logo=nltk&logoColor=white)
+  ![SpaCy](https://img.shields.io/badge/SpaCy-000000?style=flat&logo=spacy&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-339933?style=flat&logo=nltk&logoColor=white)
 
 - **Machine Learning Models**:  
-  ![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-007D9C?style=flat&logo=logistic-regression&logoColor=white)  
-  ![GANs](https://img.shields.io/badge/GANs-9932CC?style=flat&logo=gan&logoColor=white)
+  ![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-007D9C?style=flat&logo=logistic-regression&logoColor=white) ![GANs](https://img.shields.io/badge/GANs-9932CC?style=flat&logo=gan&logoColor=white)
 
 - **Deployment Tools**:  
   ![Streamlit](https://img.shields.io/badge/Streamlit-FF69B4?style=flat&logo=streamlit&logoColor=white)  
