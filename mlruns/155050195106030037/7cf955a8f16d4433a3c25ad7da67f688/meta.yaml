@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/155050195106030037/7cf955a8f16d4433a3c25ad7da67f688/artifacts
+end_time: 1728407607244
+entry_point_name: ''
+experiment_id: '155050195106030037'
+lifecycle_stage: active
+run_id: 7cf955a8f16d4433a3c25ad7da67f688
+run_name: polite-gnu-0
+run_uuid: 7cf955a8f16d4433a3c25ad7da67f688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728407597203
+status: 4
+tags: []
+user_id: ME

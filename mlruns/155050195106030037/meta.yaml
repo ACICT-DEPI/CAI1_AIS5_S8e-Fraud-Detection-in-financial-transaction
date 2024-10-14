@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/155050195106030037
+creation_time: 1728407162221
+experiment_id: '155050195106030037'
+last_update_time: 1728407162221
+lifecycle_stage: active
+name: log model features first experiment

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/260891918749158005/3f0ea265ced64b41bf8d639f6d3accbc/artifacts
+end_time: 1728409420992
+entry_point_name: ''
+experiment_id: '260891918749158005'
+lifecycle_stage: active
+run_id: 3f0ea265ced64b41bf8d639f6d3accbc
+run_name: stylish-bug-107
+run_uuid: 3f0ea265ced64b41bf8d639f6d3accbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728409420818
+status: 4
+tags: []
+user_id: ME
