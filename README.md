@@ -110,7 +110,9 @@ We use **MLFlow** to keep track of different model versions, logging the paramet
 
 ### 📈 Application Outputs
 ![home page](https://github.com/MAIKAMEL/Fraud-Detection/blob/main/output%20screen/home%20page.png)
-
+![selection page](https://github.com/MAIKAMEL/Fraud-Detection/blob/main/output%20screen/2%20(1).png)
+![selection page](https://github.com/MAIKAMEL/Fraud-Detection/blob/main/output%20screen/3.png)
+![selection page](https://github.com/MAIKAMEL/Fraud-Detection/blob/main/output%20screen/4.png)
 ---
 
 ### 👨‍💻 **Contributors**  
