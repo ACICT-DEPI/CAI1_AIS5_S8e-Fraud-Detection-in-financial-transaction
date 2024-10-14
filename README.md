@@ -12,14 +12,14 @@ Machine learning (ML) offers powerful solutions, improving fraud detection by an
 
 ---
 
-![Fraud Detection Image](https://github.com/MAIKAMEL/images/blob/main/home%20page.png)
+![Fraud Detection Image](https://github.com/MAIKAMEL/images/blob/main/Capture.JPG)
 ---
 
 ### 🚀 **Project Workflow**
 
 1. **Data Searching and Collection**  
    Gathering financial transaction data from various sources (e.g., Kaggle, other financial datasets) to form a solid foundation for model training.
-   [Credit Card Dataset](https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions) [Phiuhing Email Dataset](https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset/data)
+   [Credit Card Dataset](https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions) , [Phiuhing Email Dataset](https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset/data)
 2. **Data Preparation, Cleaning, and Preprocessing**  
    - Handling missing or corrupted data.
    - Transforming categorical data into numerical representations.
@@ -85,11 +85,6 @@ Machine learning (ML) offers powerful solutions, improving fraud detection by an
    ```bash
    streamlit run app.py
    ```
-
----
-
-### 📊 **Data Sources**  
-The dataset used for this project can be found on platforms such as [Kaggle](https://www.kaggle.com) or [Hugging Face](https://huggingface.co). These platforms provide a rich set of financial transactions and text-based datasets useful for training fraud detection models.
 
 ---
 
