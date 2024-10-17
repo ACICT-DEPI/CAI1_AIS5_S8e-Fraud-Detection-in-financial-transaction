@@ -107,17 +107,6 @@ We use **MLFlow** to keep track of different model versions, logging the paramet
 ![home page](https://github.com/MAIKAMEL/Fraud-Detection/blob/main/output%20screen/home%20page.png)
 ![selection page](https://github.com/MAIKAMEL/Fraud-Detection/blob/main/output%20screen/2%20(1).png)
 ![selection page](https://github.com/MAIKAMEL/Fraud-Detection/blob/main/output%20screen/3.png)
-![prediction page](https://github.com/MAIKAMEL/Fraud-Detection/blob/main/output%20screen/4.png)
-![prediction page](https://github.com/MAIKAMEL/Fraud-Detection/blob/main/output%20screen/5.png)
-![prediction page](https://github.com/MAIKAMEL/Fraud-Detection/blob/main/output%20screen/6.png)
-![prediction page](https://github.com/MAIKAMEL/Fraud-Detection/blob/main/output%20screen/7.png)
-![prediction page](https://github.com/MAIKAMEL/Fraud-Detection/blob/main/output%20screen/8.png)
-![prediction page](https://github.com/MAIKAMEL/Fraud-Detection/blob/main/output%20screen/9.png)
-
----
-### 👨‍💻 **Contributors**  
-- **Mai Kamel Abdelfattah**  
-  [GitHub](https://github.com/MAIKAMEL) | [LinkedIn](linkedin.com/in/mai-kamel-43547a277)
 
 ---
 
