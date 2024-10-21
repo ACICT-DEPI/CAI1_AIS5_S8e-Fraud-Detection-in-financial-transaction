@@ -28,7 +28,7 @@ Machine learning (ML) offers powerful solutions, improving fraud detection by an
    Designing ML models suited to fraud detection, such as logistic regression, decision trees, and random forests, along with an ensemble of techniques.
 
 5. **Applying NLP Techniques to Text Datasets**  
-   Using Natural Language Processing (NLP) to process and analyze unstructured text data (e.g., customer communications) and enhance fraud detection. Techniques used include:
+   Using Natural Language Processing (NLP) to process and analyze unstructured text data and enhance fraud detection. Techniques used include:
    - **SpaCy** for text parsing.
    - **NLTK** for tokenization and sentiment analysis.
 
